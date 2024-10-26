@@ -8,7 +8,7 @@ I fritiden driver jeg med trening, koding og modifikasjon av spill.
 [![My Skills](https://skillicons.dev/icons?i=py,java,r,sklearn,mysql,latex,pytorch,matlab,css,html,js&theme=light)](https://skillicons.dev)
 
 ## Utdanning :mortar_board:
-* Master i Data Science, UiO (2023 - 2025) 
+* Master i Data Science, UiO (2023 - nå) 
 * Bachelor i Fysikk, UiO  (2019 - 2023)
 
 
