@@ -1,16 +1,14 @@
-## Hi there 👋
+## Heisann :wave:
 
-<!--
-**Kevin-Aas/Kevin-Aas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mitt navn er Kevin Alexander Aslesen. Jeg er en masterstudent i Data Science med spesialisering i statistikk og maskinlæring. 
+I fritiden driver jeg med trening, koding og modifikasjon av spill. 
 
-Here are some ideas to get you started:
+## Teknologi og verktøy :sparkles:
+[![My Skills](https://skillicons.dev/icons?i=py,java,r,sklearn,sql,latex,pytorch,matlab,css,html,js&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Utdanning :mortar_board:
+* Master i Data Science, UiO (2023 - 2025) 
+* Bachelor i Fysikk, UiO  (2019 - 2023)
+
+
+
