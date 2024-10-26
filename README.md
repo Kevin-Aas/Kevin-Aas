@@ -1,6 +1,7 @@
 ## Heisann :wave:
 
 Mitt navn er Kevin Alexander Aslesen. Jeg er en masterstudent i Data Science med spesialisering i statistikk og maskinlæring. 
+
 I fritiden driver jeg med trening, koding og modifikasjon av spill. 
 
 ## Teknologi og verktøy :sparkles:
