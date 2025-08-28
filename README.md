@@ -2,7 +2,7 @@
 
 Mitt navn er Kevin Alexander Aslesen.
 
-## Teknologi og verktøy som jeg brukt før :seedling:
+## Teknologi og verktøy som jeg har brukt :seedling:
 [![My Skills](https://skillicons.dev/icons?i=py,java,r,sklearn,mysql,latex,pytorch,matlab,css,html,js&theme=light)](https://skillicons.dev)
 
 ## Utdanning :mortar_board:
